@@ -19,14 +19,13 @@ I'm Md. Shimul Mahmud</h2>
 
 - ⚡ Fun fact **Competitive Programming**
 <hr>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mdshimulmahmud&show_icons=true&locale=en" alt="mdshimulmahmud" /></p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshimulmahmud&" alt="mdshimulmahmud" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshimulmahmud&" alt="mdshimulmahmud" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshimulmahmud&show_icons=true&locale=en&layout=compact" alt="mdshimulmahmud" />
+  <img align="left" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshimulmahmud&show_icons=true&locale=en&layout=compact" alt="mdshimulmahmud" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshimulmahmud&show_icons=true&locale=en" alt="mdshimulmahmud" /></p>
-<br>
 
 <hr>
 <h2 align="center">Languages and Tools:</h2>
