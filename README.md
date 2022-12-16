@@ -5,11 +5,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdshimulmahmud &theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left, background: dark, display:flex, padding:5px, margin: 5px, font-color: white"> 
+<!-- <p align="left, background: dark, display:flex, padding:5px, margin: 5px, font-color: white"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=mdshimulmahmud" alt="mdshimulmahmud" />
   </a>
-</p>
+</p> -->
 <hr>
 🌱 I’m currently learning **React**
 
