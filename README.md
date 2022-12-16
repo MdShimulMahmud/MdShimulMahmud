@@ -1,15 +1,15 @@
 
 <h3 align="left">I'm a student of Computer Science and Engineering at Chittagong University of Engineering & Technology in Bangladesh. Currently, I am working on full stack web development. I am highly interested to Machine Learning. I am doing problem solving in different online judges and learning Data Structures and Algorithms! </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshimulmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="mdshimulmahmud" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshimulmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="mdshimulmahmud" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdshimulmahmud &theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdshimulmahmud &theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<!-- <p align="left, background: dark, display:flex, padding:5px, margin: 5px, font-color: white"> 
+<p align="left, background: dark, display:flex, padding:5px, margin: 5px, font-color: white"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=mdshimulmahmud" alt="mdshimulmahmud" />
   </a>
-</p> -->
+</p>
 <hr>
 🌱 I’m currently learning **React**
 
