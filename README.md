@@ -1,4 +1,4 @@
-
+![](cover.jpg)
 # 💫 About Me:
 💻 I am a undergrad CSE student at Chittagong University of Engineering & Technology.<br/>
 🔭 I’m currently working on `React.js`, `Node.js`<br>👯 I’m looking to collaborate on `Backend Technology`<br>⚡ Fun fact `Machine Learning` `Deep Learning`
