@@ -1,4 +1,4 @@
-![](cover.jpg)
+<-![](cover.jpg)-!>
 # 💫 About Me:
 🎓 I am a passionate software engineer who recently graduated with a B.Sc in Computer Science and Engineering from Chittagong University of Engineering & Technology (CUET) </br>
 💻 I am a DevOps Intern at AESL, part of the Kubernetes `CRD (Custom Resource Definition)` Team. My work involves exploring and implementing custom extensions to Kubernetes to create tailored and scalable solutions, gaining in-depth experience in container orchestration and resource management. I am mastering tools like `Jenkins`, `Docker`, and `Kubernetes` to automate deployments and optimize `CI/CD` pipelines. </br>
