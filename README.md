@@ -17,8 +17,7 @@ I'm a passionate software engineer and recent graduate from Chittagong Universit
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdShimulMahmud&theme=monokai&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdShimulMahmud&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </br>
-![](https://github-readme-stats.vercel.app/api?username=MdShimulMahmud&theme=monokai&hide_border=false&include_all_commits=true&count_private=true) </br>
-[![An image of @mdshimulmahmud's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdshimulmahmud)](https://holopin.io/@mdshimulmahmud)
+![](https://github-readme-stats.vercel.app/api?username=MdShimulMahmud&theme=monokai&hide_border=false&include_all_commits=true&count_private=true) 
 
 # 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Depressed021) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shimul_mahmud_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shimulmahmud) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_shimul_mahmud_) 
